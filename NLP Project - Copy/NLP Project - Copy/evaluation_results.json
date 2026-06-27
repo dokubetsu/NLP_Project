@@ -1,0 +1,16 @@
+{
+    "t5_model_used": "t5-base",
+    "num_test_samples": 5000,
+    "textrank_rouge": {
+        "rouge1": 28.01872414056461,
+        "rouge2": 9.388704141757842,
+        "rougeL": 17.684561831164658
+    },
+    "t5_rouge": {
+        "rouge1": 38.27944265159016,
+        "rouge2": 16.907295404991327,
+        "rougeL": 26.764237914530238
+    },
+    "avg_textrank_time_sec": 0.023380489540100097,
+    "avg_t5_time_sec": 1.3488657269001008
+}

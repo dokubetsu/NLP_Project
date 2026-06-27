@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+sentencepiece
+protobuf # Often needed by sentencepiece or transformers
+nltk
+sumy
+evaluate # If needed by any utility, though not directly used in app.py summarization
+streamlit-clipboard
